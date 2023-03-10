@@ -1,1 +1,1 @@
-# figma-project-1
+# Figma Project - 1
